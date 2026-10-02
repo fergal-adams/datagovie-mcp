@@ -25,7 +25,7 @@ If you use Claude, you can connect the hosted version in about a minute:
 3. Name it `data.gov.ie` and paste this URL:
 
    ```
-   https://YOUR-RENDER-URL.onrender.com/mcp
+https://datagovie-mcp.onrender.com/mcp
    ```
 
 4. Leave the authentication fields empty, then start a new chat and ask away.

@@ -2,7 +2,7 @@ services:
   - type: web
     name: datagovie-mcp
     runtime: docker
-    plan: starter          # the free plan sleeps when idle; see DEPLOY.md
+    plan: free          # the free plan sleeps when idle; see DEPLOY.md
     region: frankfurt
     healthCheckPath: /health
     envVars:
